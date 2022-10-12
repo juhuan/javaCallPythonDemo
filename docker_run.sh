@@ -1,0 +1,1 @@
+docker run -p 8080:8080 juhuan/java_call_python_demo:0.0.2
